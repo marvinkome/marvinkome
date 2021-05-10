@@ -7,4 +7,4 @@ I'm Marvin Kome, and I try to make things out of 1s and 0s
 - 📫 How to reach me: marvinkome@gmail.com
 - ⚡ Fun fact: I play FUT every weekend
 
-[![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinkome)](https://github.com/anuraghazra/github-readme-stats)
+[![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinkome&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
